@@ -1,1 +1,5 @@
 [![Fly4Future](/profile/github_banner_f4f.png)](https://fly4future.com/career/)
+
+Fly4Future is a high-tech aerial robotics company specializing in the design and deployment of advanced autonomous drone systems for industrial, research, and security applications. Closely integrated with the world-renowned [Multi-robot Systems (MRS) group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en), we bridge the gap between academic innovation and real-world reliability. Our work focuses on developing robust software stacks—utilizing both ROS and ROS 2—and modular hardware capable of complex tasks such as GPS-denied navigation, autonomous swarm coordination, and LIDAR-based SLAM. By providing cutting-edge platforms for both indoor and outdoor environments, Fly4Future empowers developers and organizations to push the boundaries of what is possible in autonomous flight.
+
+If you're interested in our work and wish to join us, see [https://fly4future.com/career/](https://fly4future.com/career/).
